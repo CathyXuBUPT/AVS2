@@ -1,4 +1,5 @@
 #!/bin/sh
+
 # compile davs2 on linux ubuntu 18.04 
 # 源码位于https://github.com/pkuvcl/davs2.git
 # 将此文件放置于该工程目录下，并sudo chmod +x build_davs2_linux.sh
